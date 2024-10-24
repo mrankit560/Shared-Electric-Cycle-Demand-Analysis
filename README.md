@@ -4,7 +4,7 @@
 Yulu is India’s leading micro-mobility service provider, offering unique vehicles for daily commutes. Launched to tackle traffic congestion in India, Yulu provides a safe commute solution through a user-friendly mobile app, enabling shared, solo, and sustainable commuting. Yulu zones are strategically located at key areas (metro stations, bus stands, office spaces, residential areas, etc.) to ensure smooth, affordable, and convenient commutes.
  
 Recently, Yulu has experienced significant dips in revenue. They have contracted a consulting company to identify the factors affecting the demand for shared electric cycles in the Indian market.
-
+ 
 ## Objective
 The main objectives of this project are to answer the following questions:
 - Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
