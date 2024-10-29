@@ -1,4 +1,4 @@
-# Project 5: Shared Electric Cycle Demand Analysis
+# Shared Electric Cycle Demand Analysis
 
 ## Overview
 This project focuses on analyzing the factors affecting the demand for shared electric cycles for a leading shared mobility provider in the urban transportation sector. The analysis employs hypothesis testing methods to understand how various external factors, such as weather conditions and weekdays, influence the usage patterns of shared electric cycles.
@@ -49,8 +49,8 @@ Based on the findings, the following recommendations are proposed:
    ```bash
    git clone https://github.com/your-username/repository-name.git
    ```
-2. Open the Jupyter notebook (`bike_sharing_case_study_by_ankit.csv.ipynb`) to explore the detailed analysis and insights derived from the dataset.
-3. Review the dataset file (`bike_sharing.csv.csv`) for a comprehensive view of the rental data used in the analysis.
+2. Open the Jupyter notebook (`bike_sharing_by_ankit.ipynb`) to explore the detailed analysis and insights derived from the dataset.
+3. Review the dataset file (`bike_sharing.csv`) for a comprehensive view of the rental data used in the analysis.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
