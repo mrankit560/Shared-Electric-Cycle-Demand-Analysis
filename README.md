@@ -49,8 +49,8 @@ Based on the findings, the following recommendations are proposed:
    ```bash
    git clone https://github.com/your-username/repository-name.git
    ```
-2. Open the Jupyter notebook (`Shared_Electric_Cycle_Analysis.ipynb`) to explore the detailed analysis and insights derived from the dataset.
-3. Review the dataset file (`cycle_rental_data.csv`) for a comprehensive view of the rental data used in the analysis.
+2. Open the Jupyter notebook (`bike_sharing_case_study_by_ankit.csv.ipynb`) to explore the detailed analysis and insights derived from the dataset.
+3. Review the dataset file (`bike_sharing.csv.csv`) for a comprehensive view of the rental data used in the analysis.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
